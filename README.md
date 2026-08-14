@@ -112,5 +112,3 @@ Cada proyecto de este perfil representa una parte de mi evolución profesional y
 
 ## Contacto
 
-* LinkedIn: Agregar enlace
-* Portafolio: synapseforge.com.mx
